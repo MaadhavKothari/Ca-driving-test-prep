@@ -9,12 +9,13 @@ Works great on your phone — open the link and add it to your home screen.
 ## What's inside
 
 ### 📖 Theory practice
-- **208 practice questions** with instant feedback and plain-English explanations for every answer
-- Topics: right of way, speed & lanes, parking, alcohol & law, safety & emergencies, sharing the road, signs & signals, official DMV-style questions, and CA handbook drills
+- **250+ practice questions** with instant feedback and plain-English explanations for every answer
+- Includes all five of the DMV's official [sample Class C knowledge tests](https://www.dmv.ca.gov/portal/driver-education-and-safety/educational-materials/sample-driver-license-dl-knowledge-tests/), plus drills written from the [California Driver's Handbook](https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/)
+- Topics: right of way, speed & lanes, parking, alcohol & law, safety & emergencies, sharing the road, signs & signals, official DMV questions, and CA handbook drills
 - **36-question mock exam** that mirrors the real test format, with a pass/fail score and a review of everything you missed
 
 ### 🛑 Road signs
-- **35 US road signs** drawn right in the app
+- **27 US road signs** drawn right in the app
 - Study them in a grid, drill with **flashcards**, or test yourself with a sign quiz
 
 ### 🚗 Road test prep
